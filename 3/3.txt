@@ -1,0 +1,5 @@
+1.LOADED VEG                    :500
+2.GARLIC BREAD                  :270
+3.PEPPY PANEER                  :375
+4.LAVA CAKE                     :150
+5.THIN CRUST CHICKEN PIZZA      :675

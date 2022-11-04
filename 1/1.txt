@@ -1,0 +1,5 @@
+1.Wings			    :200
+2.Rice bowl		    :300
+3.Signature popcorn :459
+4.Grilled chicken	:567
+5.Hot & crispy		:349
